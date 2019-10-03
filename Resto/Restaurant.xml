@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Menu>
+  <food type="Salads">
+  <name>Caesar Salad</name>
+  <price>5.95$</price>
+  <description>Traditional Caesar Salad with Chicken</description>
+  <tags>L, G, V</tags>
+  </food>
+  
+  <food type ="Salads">
+  <name>Greek Salad</name>
+  <price>4.20$</price>
+  <description>Traditional Greek Salad with feta cheese</description>
+  <tags>L, V</tags>
+  </food>
+
+  <food type ="Salads">
+  <name>Warm Chicken Salad</name>
+  <price>4.50$</price>
+  <description>Warm Chicken Salad with pumpkin seeds and fresh lettuce</description>
+  <tags>L, V</tags>
+  </food>
+
+  <food type ="Main Dishes">
+    <name>Steak with Baked Potatoes</name>
+    <price>9.95$</price>
+    <description>Lamb steak with baked potates</description>
+    <tags>G, V</tags>
+  </food>
+
+  <food type ="Main Dishes">
+    <name>Mashed Potatoes</name>
+    <price>3.20$</price>
+    <description>Warm and creamy mashed potatoes</description>
+    <tags>G</tags>
+  </food>
+
+   <food type ="Main Dishes">
+    <name>Salmon Curry</name>
+    <price>10.50$</price>
+    <description>Warm salmon cuts with homemade curry</description>
+    <tags>G, V</tags>
+  </food>
+  
+  <drink type ="Alcohol">
+    <name>Margarita</name>
+    <price>6.95$</price>
+    <size>350 ml</size>
+  </drink>
+
+  <drink type ="Alcohol">
+    <name>Tequila Sunrise</name>
+    <price>7.20$</price>
+    <size>350 ml</size>
+  </drink>
+
+  <drink type ="Alcohol">
+    <name>Mojito</name>
+    <price>8.50$</price>
+    <size> 400 ml</size>
+  </drink>
+  
+</Menu>

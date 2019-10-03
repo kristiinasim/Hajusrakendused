@@ -1,0 +1,11 @@
+C:\Users\krist\Documents\GitHub\Hajusrakendused\Resto\bin\Debug\netcoreapp3.0\Resto.exe
+C:\Users\krist\Documents\GitHub\Hajusrakendused\Resto\bin\Debug\netcoreapp3.0\Resto.deps.json
+C:\Users\krist\Documents\GitHub\Hajusrakendused\Resto\bin\Debug\netcoreapp3.0\Resto.runtimeconfig.json
+C:\Users\krist\Documents\GitHub\Hajusrakendused\Resto\bin\Debug\netcoreapp3.0\Resto.runtimeconfig.dev.json
+C:\Users\krist\Documents\GitHub\Hajusrakendused\Resto\bin\Debug\netcoreapp3.0\Resto.dll
+C:\Users\krist\Documents\GitHub\Hajusrakendused\Resto\bin\Debug\netcoreapp3.0\Resto.pdb
+C:\Users\krist\Documents\GitHub\Hajusrakendused\Resto\obj\Debug\netcoreapp3.0\Resto.csprojAssemblyReference.cache
+C:\Users\krist\Documents\GitHub\Hajusrakendused\Resto\obj\Debug\netcoreapp3.0\Resto.AssemblyInfoInputs.cache
+C:\Users\krist\Documents\GitHub\Hajusrakendused\Resto\obj\Debug\netcoreapp3.0\Resto.AssemblyInfo.cs
+C:\Users\krist\Documents\GitHub\Hajusrakendused\Resto\obj\Debug\netcoreapp3.0\Resto.dll
+C:\Users\krist\Documents\GitHub\Hajusrakendused\Resto\obj\Debug\netcoreapp3.0\Resto.pdb
